@@ -562,6 +562,12 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 12px;
     }
 
+    /* Download */
+
+    .download {
+        margin: 50px 0;
+    }
+
 }
 
 /* Media 767 */
@@ -617,6 +623,27 @@ h1, h2, h3, h4, h5, h6 {
     .reviews__author {
         font-size: 8px;
         margin: 5px 0;
+    }
+
+    .download {
+        margin: 40px 0;
+    }
+
+    .footer__inner {
+        padding: 30px 0 10px;
+    }
+
+    .footer__block {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .footer__title {
+        margin-bottom: 5px;
+    }
+
+    .footer__text {
+        margin: 0;
     }
 }
 
